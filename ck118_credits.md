@@ -1,6 +1,7 @@
 # Digital Humanities & Information Technology (CK118)
 
-Please note that this course map is intended for guidance only. Students should confirm all information with official calendars and registration systems.
+Please note that this course map is intended for guidance only.
+Students should confirm all information with official calendars and registration systems.
 
 Students should refer to the UCC Book of Modules for information on specific modules:  
 https://www.ucc.ie/admin/registrar/modules/
