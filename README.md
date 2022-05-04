@@ -2,5 +2,5 @@
 
 ## CK118
 
-[Course structure]()
- 
+[Course Structure & Module Credits](ck118_credits.md)
+
