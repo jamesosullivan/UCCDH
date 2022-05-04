@@ -2,7 +2,7 @@
 
 Please note that this course map is intended for guidance only. Students should confirm all information with official calendars and registration systems.
 
-Students should refer to the UCC Book of Modules for information on specific modules:
+Students should refer to the UCC Book of Modules for information on specific modules:  
 https://www.ucc.ie/admin/registrar/modules/
 
 ## Year 1
