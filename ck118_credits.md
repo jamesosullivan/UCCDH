@@ -50,6 +50,36 @@ https://www.ucc.ie/admin/registrar/modules/
 | CS2214 Multimedia I (5 credits)                                      | CS2517 Multimedia II (5 credits)                             |
 
 <table>
+	<thead>
+		<tr>
+			<th>Term 1</th>
+			<th>Term 2</th>
+		</tr>
+	</thead>
+  <tbody>
+		<tr>
+			<td>DH1001 Introduction to the Digital Humanities (5 credits)</td>
+      <td>DH1002 Digital Tools &amp; Methods I (5 credits)</td>
+		</tr>
+		<tr>
+			<td>DH1003 Research Methods &amp; Practices (5 credits)</td>
+      <td>CS1204 Databases for DH (5 credits)</td>
+		</tr>
+		<tr>
+			<td>CS1202 Programming for DH I (5 credits)&nbsp;</td>
+      <td>CS1203 Programming for DH II (5 credits)&nbsp;</td>
+		</tr>
+		<tr>
+			<td align='center' colspan="2">CS1201: Introduction to Computer Systems (15 credits over both terms)</td>
+    </tr>
+		<tr>
+			<td><font color="#313030" style="color: rgb(49, 48, 48);">Arts Minor (15 credits over both terms)<br></font><br><font color="#313030" style="color: rgb(49, 48, 48);">Students choose modules from ONE of the following Arts subjects:<br><br></font><font color="#313030">Archaeology, Béaloideas, Celtic Civilisation, Chinese Studies, English, Geography, German, Greek, Italian, Latin, Philosophy, Politics, Religions &amp; Global Diversity, Sociology, Spanish</font><br></td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
   <tr>
     <td align='center' colspan="2"> <em>DH Electives (students must choose TWO electives for a total of 10 credits)</em></td></tr>
   <tr>
