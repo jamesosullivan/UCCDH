@@ -41,7 +41,7 @@ https://www.ucc.ie/admin/registrar/modules/
 		</tr>
 		<tr>
 			<td colspan="2">
-				Arts Minor (15 credits over both terms) <br /><br />
+				<div align='center'> Arts Minor (15 credits over both terms) </div> <br />
 				Students choose modules from ONE of the following Arts subjects: <br /><br />
 				Archaeology, Béaloideas, Celtic Civilisation, Chinese Studies, English, Geography, German, Greek, Italian, Latin, 					Philosophy, Politics, Religions &amp; Global Diversity, Sociology, Spanish
 			</td>
@@ -93,6 +93,7 @@ https://www.ucc.ie/admin/registrar/modules/
 		</tr>
 		<tr>
 			<td>DH2009 Gender, Race and Digital Humanities (5 credits)</td>
+			<td></td>
 		</tr>
 		</tr>
 		<tr>
@@ -135,9 +136,11 @@ Work Placement or Year Abroad
 		</tr>
 		<tr>
 			<td>CS3063 Digital Content Management (5 credits)</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>CS3061 Systems and Sofware Practices (5 credits)</td>
+			<td></td>
 		</tr>
 		<tr>
     			<td align='center' colspan="2">DH4003 Research Project (20 credits over both terms)</td>
