@@ -77,7 +77,7 @@ https://www.ucc.ie/admin/registrar/modules/
 		</tr>
 		<tr>
 			<td>CS2213 Data Analytics for Digital Humanities I (5 credits)</td>
-			<td>CS2215 Data Analytics for Digital Humanities II (5credits)/td>
+			<td>CS2215 Data Analytics for Digital Humanities II (5 credits)</td>
 		</tr>
 		<tr>
 			<td>CS2214 Multimedia I (5 credits)</td>
@@ -85,8 +85,7 @@ https://www.ucc.ie/admin/registrar/modules/
 		</tr>
 		<tr>
     			<td align='center' colspan="2"><em>DH Electives (students must choose TWO electives for a total of 10 credits)</em></td>
- 		<tr>
-		<tr>
+ 		</tr>
 		<tr>
 			<td>DH2005 Learning and Knowledge Creation in the Digital Age (5 credits)</td>
 			<td>DH2006 Curation & Storytelling in a Digital Age (5 credits)</td>
@@ -95,10 +94,9 @@ https://www.ucc.ie/admin/registrar/modules/
 			<td>DH2009 Gender, Race and Digital Humanities (5 credits)</td>
 			<td></td>
 		</tr>
-		</tr>
 		<tr>
     			<td align='center' colspan="2">Arts Minor (10 credits over both terms)</td>
- 		<tr>
+ 		</tr>
 	</tbody>
 </table>
 
@@ -147,6 +145,6 @@ Work Placement or Year Abroad
  		</tr>
 		<tr>
     			<td align='center' colspan="2">Arts Minor (10 credits over both terms)</td>
- 		<tr>
+ 		</tr>
 	</tbody>
 </table>
