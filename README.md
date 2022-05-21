@@ -9,4 +9,4 @@ https://www.ucc.ie/en/dah/
 
 [Course Structure & Module Credits](ck118_credits.md)
 
-[Year 1 Timetable](ck118_y1_timetable.md)
+[Year 1 timetable](ck118_y1_timetable.md)
